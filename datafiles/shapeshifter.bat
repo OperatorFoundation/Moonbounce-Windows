@@ -1,0 +1,2 @@
+shapeshifter-dispatcher.exe -client -transparent -target 165.227.86.150:1234 -transports obfs4 -bindaddr obfs4-127.0.0.1:1234 -options "{\"cert\": \"eGHYXvMVPFm4OtIBn9mxLKeBhZS2rEZSHNPIzC7k/ZbBQv6cCVib1xf/gu8lBR3azOHdWA\", \"iatMode\": \"0\"}" -state state -ptversion 2
+pause

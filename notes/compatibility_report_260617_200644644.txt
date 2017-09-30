@@ -1,0 +1,16 @@
+Converting GML script : ${project_dir}\scripts\OpenVPN\OpenVPN.gml
+Converted description : /// @description OpenVPN
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
+game speed set to 30
+added compatibility script action/action_color.gml
+added compatibility script action/action_draw_sprite.gml
+added compatibility script action/action_draw_text.gml
+added compatibility script action/action_if_variable.gml
+added compatibility script action/action_move.gml
+added compatibility script action/action_move_to.gml
+added compatibility script action/action_reverse_xdir.gml
+added compatibility script action/action_set_hspeed.gml
+added compatibility script action/action_set_relative.gml
+added compatibility script action/__init_action.gml
+added compatibility script __init_global.gml

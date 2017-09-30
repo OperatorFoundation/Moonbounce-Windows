@@ -1,0 +1,611 @@
+{
+    "id": "d26a62cc-dbc3-47ed-a1d9-aa72d76d5d25",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "1ec40145-20fd-4fb1-8060-a43817e8582c",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "9df796a6-56f8-4deb-9b14-dc30ad463390",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "02240afe-3dec-4060-babb-a66b68b5b380",
+            "Value": {
+                "id": "96b5615a-6edc-45d4-b501-0d198e2c3750",
+                "resourcePath": "datafiles_yy\\OpenVPN\\liblzo2-2.dll.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "040a7ced-5614-42dc-8e99-c6703b34ee42",
+            "Value": {
+                "id": "141f067b-4e56-4098-97ce-7086c04fb040",
+                "resourcePath": "scripts\\@action_draw_sprite\\action_draw_sprite.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1284e225-2457-4f31-a350-36fab09768eb",
+            "Value": {
+                "id": "f75df8c0-20dd-411f-9915-6cc39a4f7665",
+                "resourcePath": "scripts\\@action_move_to\\action_move_to.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "16565f76-995e-47b4-b585-e64488fa1100",
+            "Value": {
+                "id": "0c80aa72-5353-476d-b75e-dca9dee7e3a3",
+                "resourcePath": "views\\16565f76-995e-47b4-b585-e64488fa1100.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "17ba3aa7-08d4-4714-ac55-d0e8a1cbaa60",
+            "Value": {
+                "id": "09eee59d-20f7-49e6-896a-b03717b09ccb",
+                "resourcePath": "views\\17ba3aa7-08d4-4714-ac55-d0e8a1cbaa60.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "182209ca-7647-4bb7-9fcd-c37aa49294ee",
+            "Value": {
+                "id": "1bb5cd3a-8f2f-40ca-8297-943713a30a0f",
+                "resourcePath": "datafiles_yy\\Default\\server.crt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1b163c0d-d344-4d69-96de-6e6d858b3edb",
+            "Value": {
+                "id": "474f4a69-2fdd-4db7-9bcb-0f6cbc0e06d9",
+                "resourcePath": "datafiles_yy\\Default\\DO.ovpn.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "1be1d784-ddad-4fa0-817b-8148ee6822c8",
+            "Value": {
+                "id": "2aa0b993-c998-4d10-8ffc-4e3bf8b63c43",
+                "resourcePath": "notes\\compatibility_report_260617_200644644.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "1ca4042e-2464-4dc1-94c9-3529a9fcd391",
+            "Value": {
+                "id": "2ccca697-ad81-4d93-9049-6a9ac2ef16f2",
+                "resourcePath": "extensions\\Execute_Shell\\Execute_Shell.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
+            "Key": "22ea5255-52a0-4b97-a65e-210f3783e21c",
+            "Value": {
+                "id": "5b4ad44c-64ce-46b9-8094-b25260b885ba",
+                "resourcePath": "views\\22ea5255-52a0-4b97-a65e-210f3783e21c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "268ae62c-58ff-4fa4-9cd0-db000ecc1911",
+            "Value": {
+                "id": "ea3c002b-1ef9-4185-85cf-f568c70b1c5d",
+                "resourcePath": "datafiles_yy\\shapeshifter-dispatcher.exe.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "29af6699-5ef1-4dfe-9865-67a66ecb0e87",
+            "Value": {
+                "id": "fd718724-e677-4cbc-ac1d-74d9eefee43e",
+                "resourcePath": "scripts\\ExecuteShell\\ExecuteShell.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "30b275b1-19be-4e44-aa96-68ffbef642ae",
+            "Value": {
+                "id": "5f23fd59-37e9-4582-b269-3f4e2f8f9755",
+                "resourcePath": "datafiles_yy\\Default\\obfs4.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "31a02b05-5962-4bad-a628-5517c4b8ef32",
+            "Value": {
+                "id": "7da26476-864c-46bb-85ba-80c7ce50ecdc",
+                "resourcePath": "scripts\\@__init_action\\__init_action.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3901d197-6e8e-4512-b571-8ba78c6dda71",
+            "Value": {
+                "id": "34eb0777-e730-48fd-b758-fb8d7b78b4fc",
+                "resourcePath": "views\\3901d197-6e8e-4512-b571-8ba78c6dda71.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39833b55-a341-4bb8-a5dc-908e78368f38",
+            "Value": {
+                "id": "4057fcc9-406a-4fac-98a8-f1432cb7a554",
+                "resourcePath": "views\\39833b55-a341-4bb8-a5dc-908e78368f38.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3cce853e-dc66-4434-b51a-57e02d538b2b",
+            "Value": {
+                "id": "faa8f1ec-ebe2-45d7-a7a3-efb83100e7d3",
+                "resourcePath": "datafiles_yy\\OpenVPN\\libpkcs11-helper-1.dll.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "452a1005-f395-452b-ad14-45faf17dff67",
+            "Value": {
+                "id": "4421377d-4317-4de1-87db-018405cf7166",
+                "resourcePath": "notes\\notes.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "49431ad9-5054-40a3-9c93-8cd26817c214",
+            "Value": {
+                "id": "0856bc66-8b87-4bec-beab-fcf153355100",
+                "resourcePath": "sprites\\laser_spr\\laser_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4948831c-e315-43a0-9029-0d5a4d8edd04",
+            "Value": {
+                "id": "7e02cfa5-738d-41e7-8f55-1b189ee711ce",
+                "resourcePath": "scripts\\@action_move\\action_move.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4c38a55d-4a09-4f2a-9455-462ea75bddb1",
+            "Value": {
+                "id": "3cec6619-5729-4933-ac87-b746e20e75af",
+                "resourcePath": "objects\\laser_obj\\laser_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4cc96f71-6b46-494f-891c-8c4983b62654",
+            "Value": {
+                "id": "6604d722-fd17-42f2-a69b-02db3d945416",
+                "resourcePath": "objects\\connect_obj\\connect_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ce85332-0398-4d88-b615-3631cbff6a7f",
+            "Value": {
+                "id": "6786632a-81f0-49bb-b999-a219435d165a",
+                "resourcePath": "scripts\\@action_reverse_xdir\\action_reverse_xdir.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4d063d88-d29e-40ad-9903-0cc3d38c31e7",
+            "Value": {
+                "id": "d6658735-7eb0-4dcd-a81d-434b317ebc69",
+                "resourcePath": "scripts\\OpenVPN\\OpenVPN.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6240f088-3c4c-4e08-a3d7-26e263388671",
+            "Value": {
+                "id": "12b73c8b-50c4-4c42-8c79-2247f65680f3",
+                "resourcePath": "views\\6240f088-3c4c-4e08-a3d7-26e263388671.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "66212a94-ec00-4373-9e5f-08753e7d4fe1",
+            "Value": {
+                "id": "ed24d240-21cb-4df3-ad6d-57113fbc8620",
+                "resourcePath": "datafiles_yy\\Default\\client1.key.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "675a4867-86a2-48ba-bfbe-b2b717aec339",
+            "Value": {
+                "id": "670c8422-d780-4b73-a987-5a69cb6c94ae",
+                "resourcePath": "datafiles_yy\\OpenVPN\\openvpn.exe.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "69d7bbc4-f01a-438e-8048-73e6a1045677",
+            "Value": {
+                "id": "ceeeebf8-8ec0-477e-920f-162783566363",
+                "resourcePath": "views\\69d7bbc4-f01a-438e-8048-73e6a1045677.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7426b24b-9606-4e25-893c-a1111634d719",
+            "Value": {
+                "id": "a8b921ee-ef34-4b22-a331-b7970ead79a0",
+                "resourcePath": "scripts\\@__init_global\\__init_global.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "78c0d544-a1a8-443b-b77e-0999972ddfd9",
+            "Value": {
+                "id": "98dcb7b7-b15a-4809-8c81-1bf69f03f77e",
+                "resourcePath": "objects\\lcanon_obj\\lcanon_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a68bc36-ec91-41c6-b67d-6e1107618fe2",
+            "Value": {
+                "id": "4f34bb51-c14e-422e-a666-a2cfb39bbe7f",
+                "resourcePath": "datafiles_yy\\ExecuteShell.dll.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "7fac8736-4b4b-49ee-b049-aa80f62beb3e",
+            "Value": {
+                "id": "41e3e5a2-af5b-4319-a5ec-7894054c48d3",
+                "resourcePath": "datafiles_yy\\OpenVPN\\ssleay32.dll.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "80cdaff2-a72a-44d3-a1fa-d123b2411681",
+            "Value": {
+                "id": "7987e987-cf71-43da-88e1-678b9b3aa38a",
+                "resourcePath": "sprites\\moon_spr\\moon_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "81a92d25-d5ca-4f8c-8638-3fc8be4e2360",
+            "Value": {
+                "id": "3baa9900-d204-4a1f-8dda-1a2fbac0b25a",
+                "resourcePath": "views\\81a92d25-d5ca-4f8c-8638-3fc8be4e2360.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "82b48a81-508c-45df-acbe-6117cd37fb0f",
+            "Value": {
+                "id": "6ffff6c7-1926-40ff-91a6-2193af83638a",
+                "resourcePath": "views\\82b48a81-508c-45df-acbe-6117cd37fb0f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8411d1ae-19a8-466f-993b-1d0c14a9a386",
+            "Value": {
+                "id": "6c641239-e9a2-4499-9053-50eff20b1287",
+                "resourcePath": "views\\8411d1ae-19a8-466f-993b-1d0c14a9a386.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "922dc711-445e-4da5-8999-977b93ad8f42",
+            "Value": {
+                "id": "93e1a1f5-9498-447f-a2f2-ea98fce8189e",
+                "resourcePath": "views\\922dc711-445e-4da5-8999-977b93ad8f42.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9639bfa4-19a7-4816-9efe-dd6e36a5d37c",
+            "Value": {
+                "id": "835bb255-3dd3-4ee3-a490-3e67abfae53a",
+                "resourcePath": "views\\9639bfa4-19a7-4816-9efe-dd6e36a5d37c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "96f49bdd-f1cd-43ba-823a-823cfb6100f0",
+            "Value": {
+                "id": "243e130d-b02c-471a-a3ee-bdee37463dad",
+                "resourcePath": "objects\\earth_obj\\earth_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "98ec4a5d-821a-47a0-9bd1-3c47fcd326c9",
+            "Value": {
+                "id": "2f6ce539-932b-4914-93cd-fc35965dfa39",
+                "resourcePath": "scripts\\@action_set_relative\\action_set_relative.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9bb52711-d0d8-40e7-8395-5e895026e23c",
+            "Value": {
+                "id": "a81b70dc-0366-4edf-9933-d30300935778",
+                "resourcePath": "views\\9bb52711-d0d8-40e7-8395-5e895026e23c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e14beb0-951b-4e08-9c82-b1abb40b130b",
+            "Value": {
+                "id": "47d4644f-7419-49ff-b861-0f1572ac085b",
+                "resourcePath": "views\\9e14beb0-951b-4e08-9c82-b1abb40b130b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e7dfa6e-6015-40fb-bc48-b87ed325c9ab",
+            "Value": {
+                "id": "e3c25a99-c943-4d9a-9d03-bd3504de2189",
+                "resourcePath": "scripts\\@action_color\\action_color.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a70676ba-456b-4b30-a307-daf3740a7a34",
+            "Value": {
+                "id": "49dcafc5-d4b0-47f7-8172-1a0e029f8bf4",
+                "resourcePath": "scripts\\Shapeshifter\\Shapeshifter.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "dd23839c-f946-4305-baca-de2de8f21ff6",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b053b328-34c3-4954-ba56-8d6137515630",
+            "Value": {
+                "id": "f713f910-7a44-4c23-91a8-b469dd8997f5",
+                "resourcePath": "views\\b053b328-34c3-4954-ba56-8d6137515630.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b71cfcdf-c64b-413d-ac80-3dfffc0a9340",
+            "Value": {
+                "id": "2d423745-3281-473d-bbc0-e722f770796b",
+                "resourcePath": "objects\\moon_obj\\moon_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b955cfdd-d3c5-47b8-bda0-c7a0d4102862",
+            "Value": {
+                "id": "84505a13-5f98-488d-8a72-e209a1130451",
+                "resourcePath": "datafiles_yy\\shapeshifter.bat.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "b96f2be6-dee6-4433-8c08-8c7324d1aea0",
+            "Value": {
+                "id": "c4fc780f-ff09-4316-91a2-7160e03a3e5a",
+                "resourcePath": "scripts\\@action_draw_text\\action_draw_text.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bea11de3-dc21-442f-bb52-574b92759b09",
+            "Value": {
+                "id": "62e0f42e-bdbc-47f7-9fce-15c8d7810c64",
+                "resourcePath": "datafiles_yy\\Default\\ca.crt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c674885c-2d3c-405c-96c4-3204e3dd8d3e",
+            "Value": {
+                "id": "e1dc1a4c-dd03-44e2-a2e3-7d6044c39bac",
+                "resourcePath": "views\\c674885c-2d3c-405c-96c4-3204e3dd8d3e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb406cf2-f9a0-4f90-9cd5-7160f58f5cf6",
+            "Value": {
+                "id": "393bed60-caa0-4512-bb43-585c071c82b0",
+                "resourcePath": "datafiles_yy\\Default\\client1.crt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cc926d40-7a54-41bf-948e-bf0eac1d9f0d",
+            "Value": {
+                "id": "1ace7bfd-0294-49c7-a8a4-4a794408fd39",
+                "resourcePath": "datafiles_yy\\OpenVPN.bat.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "63bf5b69-f0e7-4fc2-8d01-5c46544f9660",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce24af0f-2675-4661-9a18-98590087bb95",
+            "Value": {
+                "id": "4bd22c03-c69c-4ba6-a7d7-78af36e777b2",
+                "resourcePath": "rooms\\main_rm\\main_rm.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ce65528e-e8cb-4115-b0f6-4ce07414bff8",
+            "Value": {
+                "id": "b72b2bc0-c982-493b-b9d4-db31491657f4",
+                "resourcePath": "sprites\\buttonPink_spr\\buttonPink_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cee2455a-5c33-4b97-892a-6aef19f99f11",
+            "Value": {
+                "id": "33f4c2cf-c068-414c-bd80-c9e4048e25d3",
+                "resourcePath": "scripts\\@action_set_hspeed\\action_set_hspeed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d0d66c62-c02d-4f55-958e-e05c6287a7e4",
+            "Value": {
+                "id": "992cc031-c409-41a1-850f-c4027616e222",
+                "resourcePath": "views\\d0d66c62-c02d-4f55-958e-e05c6287a7e4.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d65ed163-2e81-463d-ad21-25a44f45edfa",
+            "Value": {
+                "id": "de769b8e-10d5-413e-9c51-7a09cad9618d",
+                "resourcePath": "datafiles_yy\\Default\\serverIP.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "dda7de41-ba7a-439f-b79a-1db5f1fef0dd",
+            "Value": {
+                "id": "fb55b7a4-2599-4c65-a3bc-cfb74421d56e",
+                "resourcePath": "datafiles_yy\\Default\\ta.key.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "de623962-7ec1-4e7b-9b39-82936367b4ea",
+            "Value": {
+                "id": "57b10f12-c66b-45bf-bf74-7d6b2cb84f20",
+                "resourcePath": "sprites\\background_bg\\background_bg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e03136d7-3691-46c3-a945-673f2fd471ae",
+            "Value": {
+                "id": "3f6dbc6e-0e5f-435c-a5d9-7606f4627009",
+                "resourcePath": "views\\e03136d7-3691-46c3-a945-673f2fd471ae.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e0bd8f8b-f050-4d4f-a9bd-eaca4a1c859b",
+            "Value": {
+                "id": "bfb5ec92-f184-48e9-85f8-0ec6914e9158",
+                "resourcePath": "views\\e0bd8f8b-f050-4d4f-a9bd-eaca4a1c859b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e2f38cee-043f-4554-ac94-a7af7497362a",
+            "Value": {
+                "id": "b775d5af-09b9-4c9a-b75e-8c9c443c93c4",
+                "resourcePath": "sprites\\lcanon_spr\\lcanon_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e5b37fe9-6442-4297-9312-29feafb17870",
+            "Value": {
+                "id": "42c69e5f-87d5-44cb-8fa9-44bd89449832",
+                "resourcePath": "scripts\\@action_if_variable\\action_if_variable.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ef0adf63-bffa-4f2f-a11b-388dd80ea3d0",
+            "Value": {
+                "id": "b41ac9b8-98e6-417a-b810-66055922241b",
+                "resourcePath": "views\\ef0adf63-bffa-4f2f-a11b-388dd80ea3d0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f149dd45-ae4b-4435-ac93-44446a83dcd9",
+            "Value": {
+                "id": "94e4e5c0-ce3e-4036-9808-726445f5743b",
+                "resourcePath": "datafiles_yy\\OpenVPN\\libeay32.dll.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "cb9ec494-1ff0-49e8-8016-bb9bf0ff74ec",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa47aab2-f2f2-4943-bf6f-0dfa952b9a0d",
+            "Value": {
+                "id": "eb752cf8-beab-4f94-a2f2-7a0fb4c85404",
+                "resourcePath": "views\\fa47aab2-f2f2-4943-bf6f-0dfa952b9a0d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fabe31c8-61d1-4d38-a4f1-f5934279c768",
+            "Value": {
+                "id": "8633a17a-85c3-45b6-a208-d59d3b0c01b8",
+                "resourcePath": "sprites\\earth_spr\\earth_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        }
+    ],
+    "script_order": [
+        "9e7dfa6e-6015-40fb-bc48-b87ed325c9ab",
+        "040a7ced-5614-42dc-8e99-c6703b34ee42",
+        "b96f2be6-dee6-4433-8c08-8c7324d1aea0",
+        "e5b37fe9-6442-4297-9312-29feafb17870",
+        "4948831c-e315-43a0-9029-0d5a4d8edd04",
+        "1284e225-2457-4f31-a350-36fab09768eb",
+        "4ce85332-0398-4d88-b615-3631cbff6a7f",
+        "cee2455a-5c33-4b97-892a-6aef19f99f11",
+        "98ec4a5d-821a-47a0-9bd1-3c47fcd326c9",
+        "31a02b05-5962-4bad-a628-5517c4b8ef32",
+        "7426b24b-9606-4e25-893c-a1111634d719",
+        "29af6699-5ef1-4dfe-9865-67a66ecb0e87",
+        "4d063d88-d29e-40ad-9903-0cc3d38c31e7",
+        "a70676ba-456b-4b30-a307-daf3740a7a34"
+    ],
+    "tutorial": ""
+}
